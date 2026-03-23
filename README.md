@@ -31,6 +31,85 @@ I build full-stack and mobile systems end-to-end: from Figma design to App Store
 ## ⏱️ WakaTime — Live Coding Stats
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 223 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 32 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                522 commits         ████████░░░░░░░░░░░░░░░░░   31.09 % 
+🌆 Daytime                517 commits         ████████░░░░░░░░░░░░░░░░░   30.79 % 
+🌃 Evening                489 commits         ███████░░░░░░░░░░░░░░░░░░   29.12 % 
+🌙 Night                  151 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   251 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Tuesday                  236 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Wednesday                225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Thursday                 270 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Friday                   238 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Saturday                 279 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+Sunday                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+TypeScript               4 hrs 17 mins       ███████████░░░░░░░░░░░░░░   45.65 % 
+JavaScript               1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
+Python                   1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+CSV                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+
+🔥 Editors: 
+VS Code                  9 hrs 23 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+quantum_physics          4 hrs               ███████████░░░░░░░░░░░░░░   42.70 % 
+frontend                 1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+affordabledatagh         1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+event-planner_nightborn  40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+movie-app                38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+
+💻 Operating System: 
+Mac                      9 hrs 23 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               64 repos            █████████████████░░░░░░░░   68.09 % 
+TypeScript               17 repos            █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
+
+
+ Last Updated on 23/03/2026 12:38:14 UTC
 <!--END_SECTION:waka-->
 
 [![wakatime](https://wakatime.com/share/@waka_d899cc43-68b1-478e-bce2-9687ba818f7a/acd7c3b3-61be-4b55-97af-1ea71fa38af1.svg)](https://wakatime.com/@AgyemangDev)
