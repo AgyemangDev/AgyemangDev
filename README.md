@@ -1,13 +1,5 @@
 <div align="center">
 
-<div align="center">
-  <img src="https://agyemangdev-portfolio.vercel.app/assets/AgyemangDev-DPvEF-iR.jpg" 
-       width="300" 
-       height="300"
-       style="border-radius: 50%; border: 3px solid #1a1b27;"
-       alt="Nana Agyemang GYAMFI"/>
-</div>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://agyemangdev.com)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gyamfiagyemang999@gmail.com)
