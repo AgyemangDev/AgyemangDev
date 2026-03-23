@@ -1,142 +1,185 @@
 <div align="center">
 
-# Hi, I'm Agyemang 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nana%20Agyemang%20GYAMFI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Mobile%20%26%20Full-Stack%20Product%20Engineer&descAlignY=51&descAlign=50" width="100%"/>
 
-### Mobile & Full-Stack Product Engineer
-*Building scalable apps used by real people — from Ghana to France*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://agyemangdev.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gyamfiagyemang999@gmail.com)
+[![WakaTime](https://wakatime.com/badge/user/waka_d899cc43-68b1-478e-bce2-9687ba818f7a.svg?style=for-the-badge)](https://wakatime.com/@AgyemangDev)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AgyemangDev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://agyemangdev.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+<br/>
+
+> *"I don't wait for direction — I ship, gather feedback, and iterate."*
 
 </div>
 
 ---
 
-I design and build mobile and web applications that solve real problems at scale.
+## 👋 About Me
 
-As **CTO & co-founder of Hostelhubb**, I led the end-to-end development of a production platform serving **4,000+ active users**, with real-time payments, push notifications, and **100+ stable releases**. I focus on clean architecture, scalable systems, and user-centered product thinking.
+I'm a **Master's student at JUNIA ISEN, Lille** (Erasmus+ Scholar) and **co-founder & CTO of HostelHubb** — a production mobile platform I scaled from 500 to 5,000+ active users.
 
-Currently studying **Software Engineering at JUNIA** (France) on an Erasmus+ scholarship, coming from a strong product + leadership background at KNUST, Ghana.
+I build full-stack and mobile systems end-to-end: from Figma design to App Store deployment, from PostgreSQL schema to CI/CD pipeline. My work has reached **25,000+ real users** across education, healthtech, and accommodation platforms.
+
+- 🇬🇭 From Ghana → 🇫🇷 Based in Lille, France
+- 🏗️ Currently building at HostelHubb + studying at JUNIA ISEN
+- 🤖 Passionate about AI-powered products and learning platforms
+- 🏆 Programmer of the Year + Most Innovative Student — CSS KNUST
 
 ---
 
-## 🚀 Flagship Projects
+## ⏱️ WakaTime — Live Coding Stats
 
-### 🏠 [Hostelhubb](https://hostelhubb.com) — Student Accommodation Platform
-> *CTO & Co-Founder | React Native · Node.js · Firebase · Paystack*
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-A full-stack mobile platform connecting students to accommodation, storage, and transport services.
-- **4,000+ active users** across two platforms (iOS & Android)
-- **100+ production releases** with maintained uptime and stability
-- **30%+ increase in user engagement** after UX architecture overhaul
-- Built complete system: booking flows, real-time payments, push notifications, backend APIs
+[![wakatime](https://wakatime.com/share/@waka_d899cc43-68b1-478e-bce2-9687ba818f7a/acd7c3b3-61be-4b55-97af-1ea71fa38af1.svg)](https://wakatime.com/@AgyemangDev)
+
+> 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
+
+---
+
+## 🚀 Production Work
+
+### 🏠 HostelHubb — Student Accommodation Platform
+> **CTO & Co-Founder** | `React Native` `Node.js` `Supabase` `PostgreSQL` `Paystack` `GitHub Actions`
+
+Ghana's student accommodation, storage, and transport marketplace — scaled from 0 to production.
+
+| Metric | Result |
+|--------|--------|
+| 👥 Active users | **5,000+** |
+| 📦 Production releases | **100+** |
+| 📈 Engagement increase | **+60%** |
+| ⚡ Load time | **4.2s → 1.8s** |
+| 🚀 Deploy time | **2 hours → 15 minutes** |
+| 🧪 Test coverage | **80%+** |
+
+Built: AI-powered recommendation (collaborative filtering + NLP, +45% match accuracy) · full Paystack payment integration · real-time push notifications · role-based admin dashboard · App Store + Play Store CI/CD pipeline
 
 ---
 
 ### 📍 Smart Attendance System — KNUST
-> *Full Stack Developer | React Native · Node.js · Firebase · Geolocation*
+> **Full Stack Developer** | `React Native` `Next.js` `TypeScript` `Supabase` `Firebase` `Geolocation`
 
-Secure, real-time attendance tracking system for university-scale use.
-- **2,000+ active users**
-- **40% reduction in attendance recording errors**
-- Role-based access control (RBAC), geolocation verification, real-time sync
+| Metric | Result |
+|--------|--------|
+| 👥 Users | **20,000+** |
+| ✅ Error reduction | **−40%** |
+| ⬆️ Uptime | **99.9%** |
+
+Geofencing verification · lecturer dashboard for identifying at-risk students · GitHub Actions CI/CD · zero-downtime deploys on iOS + Android
 
 ---
 
 ### 🏥 MobiCare — Mobile Healthcare Platform
-> *Software Engineer | React Native · Node.js · AI APIs*
+> `React Native` `Node.js` `AI APIs` `Video SDK`
 
-Mobile health application integrating real-time communication and intelligent recommendations.
-- Appointment scheduling + video consultation features
-- AI-based nutrition recommendation engine
-- Measurable improvement in user engagement and clinical workflow efficiency
+Appointment scheduling · video consultations · AI-based nutrition recommendations
 
 ---
 
-### ⚛️ Quantum Mechanics GUI — Interactive Learning Interface
-> *Developer | Python · Tkinter/Qt · Physics Simulations*
+### ⚛️ Quantum Mechanics GUI — JUNIA-ISEN
+> `Python` `Tkinter/PyQt` `Physics Simulations`
 
-Interactive tool helping students visualize quantum mechanics concepts instead of relying solely on theory. Designed for accessibility and engagement in academic settings.
+Interactive visualizer for wave functions, particle behaviors, and quantum phenomena — built for real classroom use.
 
 ---
 
 ### 🗄️ Systems Engineering Projects
-> *C++ · Compiler Design · Automata Theory*
+> `C++` `SQL` `Kotlin` `React` `TypeScript`
 
-- **Custom SQL Engine** — Parsing, joins, indexing from scratch
-- **Regex Engine** — NFA/DFA construction, backtracking, pattern matching
+- **Custom SQL Engine** — parser, joins, indexing from scratch
+- **Regex Engine** — NFA/DFA, backtracking, full pattern matching
+- **Library Mall** — Next.js + TypeScript, 10,000+ books via Google Books API
+- **Android Food Tracker** — Kotlin + ML Kit barcode scanner + Open Food Facts API
+- **Weather Dashboard** — React, 98 Lighthouse score, sub-1s load, 50+ cities
 
-*These demonstrate deep computer science fundamentals — the kind that matter in technical interviews and research environments.*
+---
+
+## 📊 GitHub Stats (Public Only)
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AgyemangDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AgyemangDev&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AgyemangDev&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
+
+</div>
+
+> ⚠️ *Most production work is in private repos (HostelHubb, MobiCare, KNUST systems). Stats reflect public activity only.*
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Mobile**
+**Mobile & Frontend**
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-**Backend & Cloud**
+**Backend & Database**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Systems**
+**Systems & DevOps**
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
----
+**AI & Monitoring**
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![PostHog](https://img.shields.io/badge/PostHog-FF6C37?style=flat-square&logo=posthog&logoColor=white)
 
-## 🏆 Recognition
 
-| Award | Org |
-|-------|-----|
+## 🏆 Awards
+
+| Award | Organisation |
+|-------|-------------|
 | 🥇 Most Innovative Student | CSS — KNUST |
 | 💻 Programmer of the Year | CSS — KNUST |
-| 🌍 Erasmus+ Scholarship | EU / JUNIA |
-| 🚀 Student Venture Support Programme | KNUST |
 | 🌟 Most Influential Student | KNUST |
+| 🌍 Erasmus+ Scholarship | European Union / JUNIA |
+| 🚀 Student Venture Support Programme | KNUST |
 
 ---
 
 ## 🎓 Leadership
 
+**Co-Founder & CTO — HostelHubb** *(2024 – Present)*
+Full product ownership from architecture to App Store deployment
+
 **Vice President — Science Students Association, KNUST**
-- Led student welfare and academic initiatives at scale
-- Spearheaded development of the **first student association mobile app** in a Ghanaian college
-- Acted as lead engineer for the SCISA platform
+Built the **first student association mobile app** in a Ghanaian college · lead engineer on SCISA platform
 
 **Mentor — Computer Science Society, KNUST**
-- Mentored junior students in software development and career navigation
+Mentored students in software development and career navigation
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Contact
 
-<div align="center">
+I'm seeking **software engineering internships in France and Europe** (April 2026 onwards, eligible via French convention de stage).
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AgyemangDev&show_icons=true&theme=default&hide_border=true&count_private=true)
+Interested in: AI-powered products · EdTech · HealthTech · High-growth startups
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AgyemangDev&layout=compact&hide_border=true&theme=default)
-
-</div>
-
-> ⚠️ *Most of my production work is in private repositories (Hostelhubb, MobiCare, KNUST systems). Stats above reflect public activity only.*
+📧 gyamfiagyemang999@gmail.com · 📱 +33 751 388 042 · 📍 Lille → Paris · Berlin · Remote
 
 ---
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-*Open to internship opportunities in France and Europe — particularly product-focused engineering roles.*
-
-**Let's build something real.** 🚀
-
+*Let's build something real. 🚀*
 </div>
