@@ -1,11 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nana%20Agyemang%20GYAMFI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Mobile%20%26%20Full-Stack%20Product%20Engineer&descAlignY=51&descAlign=50" width="100%"/>
+<div align="center">
+  <img src="https://agyemangdev-portfolio.vercel.app/assets/AgyemangDev-DPvEF-iR.jpg" 
+       width="300" 
+       height="300"
+       style="border-radius: 50%; border: 3px solid #1a1b27;"
+       alt="Nana Agyemang GYAMFI"/>
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://agyemangdev.com)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gyamfiagyemang999@gmail.com)
-[![WakaTime](https://wakatime.com/badge/user/AgyemangDev.svg?style=for-the-badge)](https://wakatime.com/@AgyemangDev)
+[![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@AgyemangDev)
 
 <br/>
 
