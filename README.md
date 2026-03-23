@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://agyemangdev.com)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gyamfiagyemang999@gmail.com)
-[![WakaTime](https://wakatime.com/badge/user/waka_d899cc43-68b1-478e-bce2-9687ba818f7a.svg?style=for-the-badge)](https://wakatime.com/@AgyemangDev)
+[![WakaTime](https://wakatime.com/badge/user/AgyemangDev.svg?style=for-the-badge)](https://wakatime.com/@AgyemangDev)
 
 <br/>
 
@@ -28,91 +28,91 @@ I build full-stack and mobile systems end-to-end: from Figma design to App Store
 
 ---
 
+## 🛠️ Tech Stack
+
+**Mobile & Frontend**
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+**Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Systems & DevOps**
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**AI & Monitoring**
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![PostHog](https://img.shields.io/badge/PostHog-FF6C37?style=flat-square&logo=posthog&logoColor=white)
+
+---
+
 ## ⏱️ WakaTime — Live Coding Stats
 
+> 🔄 *Auto-updated every 24 hours via GitHub Actions pipeline*
+
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 223 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 32 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning                522 commits         ████████░░░░░░░░░░░░░░░░░   31.09 % 
-🌆 Daytime                517 commits         ████████░░░░░░░░░░░░░░░░░   30.79 % 
-🌃 Evening                489 commits         ███████░░░░░░░░░░░░░░░░░░   29.12 % 
-🌙 Night                  151 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+🌞 Morning                522 commits         ████████░░░░░░░░░░░░░░░░░   31.09 %
+🌆 Daytime                517 commits         ████████░░░░░░░░░░░░░░░░░   30.79 %
+🌃 Evening                489 commits         ███████░░░░░░░░░░░░░░░░░░   29.12 %
+🌙 Night                  151 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 %
 ```
-📅 **I'm Most Productive on Saturday** 
+
+📅 **I'm Most Productive on Saturday**
 
 ```text
-Monday                   251 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Tuesday                  236 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Wednesday                225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Thursday                 270 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Friday                   238 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Saturday                 279 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-Sunday                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Monday                   251 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 %
+Tuesday                  236 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 %
+Wednesday                225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 %
+Thursday                 270 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 %
+Friday                   238 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 %
+Saturday                 279 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.62 %
+Sunday                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Europe/Paris
 
-💬 Programming Languages: 
-TypeScript               4 hrs 17 mins       ███████████░░░░░░░░░░░░░░   45.65 % 
-JavaScript               1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-Python                   1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-CSV                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+💬 Programming Languages:
+TypeScript               4 hrs 17 mins       ███████████░░░░░░░░░░░░░░   45.65 %
+JavaScript               1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   20.84 %
+Python                   1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
+JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+CSV                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
 
-🔥 Editors: 
-VS Code                  9 hrs 23 mins       █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  9 hrs 23 mins       █████████████████████████   100.00 %
 
-🐱‍💻 Projects: 
-quantum_physics          4 hrs               ███████████░░░░░░░░░░░░░░   42.70 % 
-frontend                 1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-affordabledatagh         1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-event-planner_nightborn  40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-movie-app                38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+🐱‍💻 Projects:
+quantum_physics          4 hrs               ███████████░░░░░░░░░░░░░░   42.70 %
+frontend                 1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.72 %
+affordabledatagh         1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 %
+event-planner_nightborn  40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+movie-app                38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
 
-💻 Operating System: 
-Mac                      9 hrs 23 mins       █████████████████████████   100.00 % 
+💻 Operating System:
+Mac                      9 hrs 23 mins       █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               64 repos            █████████████████░░░░░░░░   68.09 % 
-TypeScript               17 repos            █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
-
-
- Last Updated on 23/03/2026 12:38:14 UTC
 <!--END_SECTION:waka-->
-
-[![wakatime](https://wakatime.com/share/@waka_d899cc43-68b1-478e-bce2-9687ba818f7a/acd7c3b3-61be-4b55-97af-1ea71fa38af1.svg)](https://wakatime.com/@AgyemangDev)
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
 
@@ -176,7 +176,7 @@ Interactive visualizer for wave functions, particle behaviors, and quantum pheno
 
 ---
 
-## 📊 GitHub Stats (Public Only)
+## 📊 GitHub Stats (Public)
 
 <div align="center">
 
@@ -184,42 +184,12 @@ Interactive visualizer for wave functions, particle behaviors, and quantum pheno
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AgyemangDev&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AgyemangDev&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
-
 </div>
 
-> ⚠️ *Most production work is in private repos (HostelHubb, MobiCare, KNUST systems). Stats reflect public activity only.*
+> ⚠️ *Most production work lives in private repos (HostelHubb, MobiCare, KNUST systems). Public stats reflect open-source activity only.*
 
 ---
 
-## 🛠️ Tech Stack
-
-**Mobile & Frontend**
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
-
-**Backend & Database**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Systems & DevOps**
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-**AI & Monitoring**
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
-![PostHog](https://img.shields.io/badge/PostHog-FF6C37?style=flat-square&logo=posthog&logoColor=white)
 
 
 ## 🏆 Awards
