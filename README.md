@@ -62,54 +62,87 @@ I build full-stack and mobile systems end-to-end: from Figma design to App Store
 > 🔄 *Auto-updated every 24 hours via GitHub Actions pipeline*
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C972%20hrs%2013%20mins-blue?style=flat)
 
-**I'm an Early 🐤**
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 230 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 32 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                522 commits         ████████░░░░░░░░░░░░░░░░░   31.09 %
-🌆 Daytime                517 commits         ████████░░░░░░░░░░░░░░░░░   30.79 %
-🌃 Evening                489 commits         ███████░░░░░░░░░░░░░░░░░░   29.12 %
-🌙 Night                  151 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 %
+🌞 Morning                522 commits         ████████░░░░░░░░░░░░░░░░░   31.03 % 
+🌆 Daytime                520 commits         ████████░░░░░░░░░░░░░░░░░   30.92 % 
+🌃 Evening                489 commits         ███████░░░░░░░░░░░░░░░░░░   29.07 % 
+🌙 Night                  151 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
 ```
-
-📅 **I'm Most Productive on Saturday**
+📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   251 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 %
-Tuesday                  236 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 %
-Wednesday                225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 %
-Thursday                 270 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 %
-Friday                   238 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 %
-Saturday                 279 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.62 %
-Sunday                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 %
+Monday                   254 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+Tuesday                  236 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Wednesday                225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Thursday                 270 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Friday                   238 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Saturday                 279 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+Sunday                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
 ```
 
-📊 **This Week I Spent My Time On**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Europe/Paris
 
-💬 Programming Languages:
-TypeScript               4 hrs 17 mins       ███████████░░░░░░░░░░░░░░   45.65 %
-JavaScript               1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   20.84 %
-Python                   1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
-JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
-CSV                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+💬 Programming Languages: 
+TypeScript               3 hrs 26 mins       ███████████░░░░░░░░░░░░░░   43.85 % 
+JavaScript               1 hr 59 mins        ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
+Python                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 
-🔥 Editors:
-VS Code                  9 hrs 23 mins       █████████████████████████   100.00 %
+🔥 Editors: 
+VS Code                  7 hrs 49 mins       █████████████████████████   100.00 % 
 
-🐱‍💻 Projects:
-quantum_physics          4 hrs               ███████████░░░░░░░░░░░░░░   42.70 %
-frontend                 1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.72 %
-affordabledatagh         1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 %
-event-planner_nightborn  40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-movie-app                38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+🐱‍💻 Projects: 
+quantum_physics          3 hrs 36 mins       ████████████░░░░░░░░░░░░░   46.04 % 
+affordabledatagh         1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+frontend                 49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+movie-app                38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+kcechurchsite            31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 
-💻 Operating System:
-Mac                      9 hrs 23 mins       █████████████████████████   100.00 %
+💻 Operating System: 
+Mac                      7 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               64 repos            █████████████████░░░░░░░░   68.09 % 
+TypeScript               17 repos            █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
+
+
+ Last Updated on 24/03/2026 01:19:53 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
