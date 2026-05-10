@@ -62,7 +62,7 @@ I build full-stack and mobile systems end-to-end: from Figma design to App Store
 > 🔄 *Auto-updated every 24 hours via GitHub Actions pipeline*
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C069%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C069%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -70,7 +70,7 @@ I build full-stack and mobile systems end-to-end: from Figma design to App Store
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 341 Contributions in the Year 2026
+> 🏆 345 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -105,23 +105,23 @@ Sunday                   183 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               2 hrs 47 mins       █████████████░░░░░░░░░░░░   52.89 % 
-Bash                     1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
-JavaScript               43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-HTML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Bash                     1 hr 9 mins         █████████░░░░░░░░░░░░░░░░   36.54 % 
+JavaScript               43 mins             ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
+TypeScript               39 mins             █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+HTML                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 17 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ghafra                   2 hrs 45 mins       █████████████░░░░░░░░░░░░   52.16 % 
-tiinatii.io              1 hr 31 mins        ███████░░░░░░░░░░░░░░░░░░   28.75 % 
-AgyemangDevPortfolio     56 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-Findr                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+tiinatii.io              1 hr 31 mins        ████████████░░░░░░░░░░░░░   48.05 % 
+AgyemangDevPortfolio     56 mins             ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+ghafra                   38 mins             █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+Findr                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 💻 Operating System: 
-Mac                      5 hrs 17 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -141,7 +141,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
 
 
- Last Updated on 09/05/2026 02:07:45 UTC
+ Last Updated on 10/05/2026 02:08:18 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
