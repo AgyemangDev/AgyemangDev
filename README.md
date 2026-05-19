@@ -62,6 +62,8 @@ I build full-stack and mobile systems end-to-end: from Figma design to App Store
 > 🔄 *Auto-updated every 24 hours via GitHub Actions pipeline*
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C085%20hrs%2049%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -76,6 +78,52 @@ I build full-stack and mobile systems end-to-end: from Figma design to App Store
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                597 commits         ████████░░░░░░░░░░░░░░░░░   32.87 % 
+🌆 Daytime                551 commits         ████████░░░░░░░░░░░░░░░░░   30.34 % 
+🌃 Evening                515 commits         ███████░░░░░░░░░░░░░░░░░░   28.36 % 
+🌙 Night                  153 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   289 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Tuesday                  258 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Wednesday                245 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Thursday                 281 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Friday                   267 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+Saturday                 292 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Sunday                   184 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+TypeScript               11 hrs 59 mins      ██████████████████████░░░   88.05 % 
+Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+
+🔥 Editors: 
+VS Code                  13 hrs 37 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+tiinatii.io              10 hrs 19 mins      ███████████████████░░░░░░   75.79 % 
+ghafra                   3 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Findr                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+backend                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+
+💻 Operating System: 
+Mac                      13 hrs 37 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -93,7 +141,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2026 02:35:38 UTC
+ Last Updated on 19/05/2026 02:34:55 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
