@@ -62,7 +62,7 @@ I build full-stack and mobile systems end-to-end: from Figma design to App Store
 > 🔄 *Auto-updated every 24 hours via GitHub Actions pipeline*
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C262%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C263%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -70,7 +70,7 @@ I build full-stack and mobile systems end-to-end: from Figma design to App Store
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 402 Contributions in the Year 2026
+> 🏆 408 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,53 +78,6 @@ I build full-stack and mobile systems end-to-end: from Figma design to App Store
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                571 commits         ████████░░░░░░░░░░░░░░░░░   32.91 % 
-🌆 Daytime                510 commits         ███████░░░░░░░░░░░░░░░░░░   29.39 % 
-🌃 Evening                505 commits         ███████░░░░░░░░░░░░░░░░░░   29.11 % 
-🌙 Night                  149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   261 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Tuesday                  259 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Wednesday                238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-Thursday                 268 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Friday                   268 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Saturday                 269 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Sunday                   172 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-JavaScript               15 hrs 22 mins      ██████████████░░░░░░░░░░░   56.57 % 
-TypeScript               9 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   33.39 % 
-Bash                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-Markdown                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-
-🔥 Editors: 
-VS Code                  27 hrs 9 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-hostelhubbweb            6 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
-hostelhubbmobile         4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Tiinatii_mobile          3 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-mobileapp                3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-hostelhubbmobilebackend  2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-
-💻 Operating System: 
-Mac                      27 hrs 9 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -142,7 +95,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
 
 
- Last Updated on 16/07/2026 01:52:20 UTC
+ Last Updated on 17/07/2026 01:55:54 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
