@@ -78,51 +78,6 @@ I build full-stack and mobile systems end-to-end: from Figma design to App Store
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                581 commits         ████████░░░░░░░░░░░░░░░░░   33.28 % 
-🌆 Daytime                511 commits         ███████░░░░░░░░░░░░░░░░░░   29.27 % 
-🌃 Evening                505 commits         ███████░░░░░░░░░░░░░░░░░░   28.92 % 
-🌙 Night                  149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   262 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Tuesday                  263 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Wednesday                238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Thursday                 274 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Friday                   268 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Saturday                 269 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Sunday                   172 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-JavaScript               1 hr 49 mins        █████████████████████████   98.08 % 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-
-🔥 Editors: 
-VS Code                  1 hr 51 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-hostelhubbweb            1 hr 34 mins        █████████████████████░░░░   85.11 % 
-Hostelhubbdashboard      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-hostelhubbmobilebackend  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-frontend                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-hostelhubbmanagementsyste0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-
-💻 Operating System: 
-Mac                      1 hr 51 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -140,7 +95,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 01:56:13 UTC
+ Last Updated on 25/07/2026 01:55:10 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
