@@ -357,7 +357,7 @@ Interested in: AI-powered products · EdTech · HealthTech · High-growth startu
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -398,24 +398,24 @@ Sunday                   175 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               2 hrs 31 mins       ███████████░░░░░░░░░░░░░░   43.93 % 
-JavaScript               1 hr 46 mins        ████████░░░░░░░░░░░░░░░░░   30.74 % 
-Bash                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+TypeScript               2 hrs 36 mins       ███████████░░░░░░░░░░░░░░   45.36 % 
+JavaScript               1 hr 40 mins        ███████░░░░░░░░░░░░░░░░░░   29.27 % 
+Bash                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 45 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 44 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-hostelhubbweb            1 hr 58 mins        █████████░░░░░░░░░░░░░░░░   34.43 % 
-mobileapp                1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   28.22 % 
-dashboard                53 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-backend                  48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Tiinatii_mobile          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+hostelhubbweb            1 hr 58 mins        █████████░░░░░░░░░░░░░░░░   34.50 % 
+mobileapp                1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   28.27 % 
+backend                  53 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+dashboard                53 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Tiinatii_mobile          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 
 💻 Operating System: 
-Mac                      5 hrs 45 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -441,7 +441,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 01:49:07 UTC
+ Last Updated on 29/07/2026 01:51:08 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
