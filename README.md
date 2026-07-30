@@ -481,7 +481,7 @@ Interested in: AI-powered products · EdTech · HealthTech · High-growth startu
 > 🔄 *Auto-updated every 24 hours via GitHub Actions pipeline*
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C265%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C269%20hrs%2020%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20mins-blue?style=flat)
 
@@ -491,32 +491,32 @@ Interested in: AI-powered products · EdTech · HealthTech · High-growth startu
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 417 Contributions in the Year 2026
+> 🏆 426 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 33 Public Repositories 
+> 📜 34 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                582 commits         ████████░░░░░░░░░░░░░░░░░   33.26 % 
-🌆 Daytime                514 commits         ███████░░░░░░░░░░░░░░░░░░   29.37 % 
-🌃 Evening                505 commits         ███████░░░░░░░░░░░░░░░░░░   28.86 % 
-🌙 Night                  149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+🌞 Morning                588 commits         ████████░░░░░░░░░░░░░░░░░   33.47 % 
+🌆 Daytime                514 commits         ███████░░░░░░░░░░░░░░░░░░   29.25 % 
+🌃 Evening                506 commits         ███████░░░░░░░░░░░░░░░░░░   28.80 % 
+🌙 Night                  149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   263 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Tuesday                  263 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Wednesday                238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Thursday                 274 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Friday                   268 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Saturday                 269 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Sunday                   175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Monday                   263 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Tuesday                  263 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Wednesday                245 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Thursday                 274 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Friday                   268 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+Saturday                 269 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+Sunday                   175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
 ```
 
 
@@ -526,24 +526,24 @@ Sunday                   175 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               2 hrs 36 mins       ███████████░░░░░░░░░░░░░░   45.36 % 
-JavaScript               1 hr 40 mins        ███████░░░░░░░░░░░░░░░░░░   29.27 % 
-Bash                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+TypeScript               5 hrs 16 mins       ████████████████░░░░░░░░░   65.19 % 
+Bash                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+JSON                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 44 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 4 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-hostelhubbweb            1 hr 58 mins        █████████░░░░░░░░░░░░░░░░   34.50 % 
-mobileapp                1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   28.27 % 
-backend                  53 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-dashboard                53 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Tiinatii_mobile          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+mock-api-builder         3 hrs 35 mins       ███████████░░░░░░░░░░░░░░   44.49 % 
+mobileapp                1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+dashboard                1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+backend                  53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+hostelhubbweb            24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
 
 💻 Operating System: 
-Mac                      5 hrs 44 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -555,11 +555,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               61 repos            ████████████████░░░░░░░░░   63.54 % 
-TypeScript               21 repos            █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+JavaScript               61 repos            ████████████████░░░░░░░░░   62.89 % 
+TypeScript               22 repos            ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
+Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 ```
 
 
@@ -569,7 +569,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 01:51:08 UTC
+ Last Updated on 30/07/2026 01:44:23 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
