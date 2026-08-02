@@ -481,9 +481,9 @@ Interested in: AI-powered products · EdTech · HealthTech · High-growth startu
 > 🔄 *Auto-updated every 24 hours via GitHub Actions pipeline*
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C273%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C273%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-56%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-58%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -526,47 +526,47 @@ Sunday                   175 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               7 hrs 36 mins       ████████████████░░░░░░░░░   63.31 % 
-JSON                     1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Bash                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-Markdown                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+TypeScript               8 hrs 12 mins       ████████████████░░░░░░░░░   65.54 % 
+JSON                     1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+Markdown                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Bash                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+JavaScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 51 mins      █████████████████████████   98.63 % 
-Copilot CLI              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+VS Code                  12 hrs 19 mins      █████████████████████████   98.42 % 
+Copilot CLI              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 
 🐱‍💻 Projects: 
-mock-api-builder         7 hrs 31 mins       ████████████████░░░░░░░░░   62.66 % 
-mobileapp                1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-dashboard                1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-backend                  53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-hostelhubbweb            24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+mock-api-builder         7 hrs 31 mins       ███████████████░░░░░░░░░░   60.08 % 
+mobileapp                1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+backend                  1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+dashboard                1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+website                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 
 💻 Operating System: 
-Mac                      12 hrs              █████████████████████████   100.00 % 
+Mac                      12 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 mins (2.02%)
+⏱ AI Coding Time: 16 mins (2.21%)
 
-✍️ 319 lines written by AI, 6,078 lines written by hand (4.99% AI-written)
+✍️ 319 lines written by AI, 6,157 lines written by hand (4.93% AI-written)
 
-🔤 120,144 Input Tokens, 15,889 Output Tokens
+🔤 120,144 Input Tokens, 24,178 Output Tokens
 
-💵 $1.08 Estimated AI Cost This Week
+💵 $1.33 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 2 AI Prompts
+🧠 2 AI Sessions, 2 AI Prompts
 
 GPT                      319 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 4.99% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 4.93% of written lines came from AI
 📄 Detailed Prompter — average 737 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 96.25% of changed lines were hand-edited
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 96.29% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -586,7 +586,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2026 02:02:34 UTC
+ Last Updated on 02/08/2026 01:59:09 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
