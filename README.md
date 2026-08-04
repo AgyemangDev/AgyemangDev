@@ -481,7 +481,7 @@ Interested in: AI-powered products · EdTech · HealthTech · High-growth startu
 > 🔄 *Auto-updated every 24 hours via GitHub Actions pipeline*
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C273%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C274%20hrs%2013%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-58%20mins-blue?style=flat)
 
@@ -526,33 +526,33 @@ Sunday                   175 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               7 hrs 27 mins       ████████████████░░░░░░░░░   63.48 % 
-JSON                     1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Markdown                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-Bash                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-JavaScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+TypeScript               5 hrs 40 mins       ████████████████░░░░░░░░░   62.72 % 
+JSON                     1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Markdown                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 33 mins      █████████████████████████   98.31 % 
-Copilot CLI              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+VS Code                  8 hrs 51 mins       ████████████████████████░   97.81 % 
+Copilot CLI              11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 
 🐱‍💻 Projects: 
-mock-api-builder         7 hrs 31 mins       ████████████████░░░░░░░░░   64.02 % 
-mobileapp                1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-dashboard                1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-backend                  49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-website                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+mock-api-builder         7 hrs 31 mins       █████████████████████░░░░   83.11 % 
+backend                  29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+website                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+dashboard                22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+frontend                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 💻 Operating System: 
-Mac                      11 hrs 45 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (2.35%)
+⏱ AI Coding Time: 16 mins (3.06%)
 
-✍️ 319 lines written by AI, 5,370 lines written by hand (5.61% AI-written)
+✍️ 319 lines written by AI, 3,058 lines written by hand (9.45% AI-written)
 
 🔤 120,144 Input Tokens, 24,178 Output Tokens
 
@@ -563,10 +563,10 @@ Mac                      11 hrs 45 mins      ███████████�
 GPT                      319 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 5.61% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 9.45% of written lines came from AI
 📄 Detailed Prompter — average 737 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 95.74% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 92.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -586,7 +586,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
 
 
- Last Updated on 03/08/2026 02:00:46 UTC
+ Last Updated on 04/08/2026 01:46:58 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
