@@ -526,33 +526,32 @@ Sunday                   175 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               5 hrs 36 mins       ████████████████░░░░░░░░░   62.40 % 
-JSON                     1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Markdown                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+TypeScript               2 hrs 56 mins       ███████████████░░░░░░░░░░   58.70 % 
+JSON                     34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Markdown                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+Bash                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 44 mins       ████████████████████████░   97.29 % 
-Copilot CLI              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+VS Code                  4 hrs 46 mins       ████████████████████████░   95.16 % 
+Copilot CLI              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 
 🐱‍💻 Projects: 
-mock-api-builder         7 hrs 31 mins       █████████████████████░░░░   83.78 % 
-backend                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-website                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-dashboard                22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-frontend                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+mock-api-builder         3 hrs 56 mins       ████████████████████░░░░░   78.36 % 
+backend                  24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+website                  24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+frontend                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
 
 💻 Operating System: 
-Mac                      8 hrs 59 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 mins (3.58%)
+⏱ AI Coding Time: 19 mins (6.41%)
 
-✍️ 319 lines written by AI, 3,059 lines written by hand (9.44% AI-written)
+✍️ 319 lines written by AI, 2,455 lines written by hand (11.5% AI-written)
 
 🔤 120,144 Input Tokens, 24,541 Output Tokens
 
@@ -563,10 +562,10 @@ Mac                      8 hrs 59 mins       ███████████�
 GPT                      319 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 9.44% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 11.5% of written lines came from AI
 📄 Detailed Prompter — average 503 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 92.48% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 89.95% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -586,7 +585,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 01:49:16 UTC
+ Last Updated on 06/08/2026 01:49:23 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
