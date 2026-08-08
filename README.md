@@ -481,6 +481,10 @@ Interested in: AI-powered products · EdTech · HealthTech · High-growth startu
 > 🔄 *Auto-updated every 24 hours via GitHub Actions pipeline*
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C274%20hrs%2013%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-58%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -495,6 +499,73 @@ Interested in: AI-powered products · EdTech · HealthTech · High-growth startu
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                588 commits         ████████░░░░░░░░░░░░░░░░░   33.47 % 
+🌆 Daytime                514 commits         ███████░░░░░░░░░░░░░░░░░░   29.25 % 
+🌃 Evening                506 commits         ███████░░░░░░░░░░░░░░░░░░   28.80 % 
+🌙 Night                  149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   263 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Tuesday                  263 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Wednesday                245 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Thursday                 274 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Friday                   268 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+Saturday                 269 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+Sunday                   175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+TypeScript               36 mins             ██████████████░░░░░░░░░░░   56.18 % 
+JavaScript               16 mins             ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
+Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Bash                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+
+🔥 Editors: 
+VS Code                  1 hr                ███████████████████████░░   92.75 % 
+Copilot CLI              4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+
+🐱‍💻 Projects: 
+backend                  24 mins             █████████░░░░░░░░░░░░░░░░   37.96 % 
+website                  24 mins             █████████░░░░░░░░░░░░░░░░   37.49 % 
+frontend                 16 mins             ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
+
+💻 Operating System: 
+Mac                      1 hr 5 mins         █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 4 mins (7.25%)
+
+✍️ 0 lines written by AI, 80 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 8,652 Output Tokens
+
+💵 $0.26 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 36 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -512,7 +583,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 02:13:54 UTC
+ Last Updated on 08/08/2026 01:00:47 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
