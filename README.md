@@ -526,44 +526,22 @@ Sunday                   175 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               36 mins             ██████████████░░░░░░░░░░░   56.18 % 
-JavaScript               16 mins             ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
-Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Bash                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+JavaScript               16 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr                ███████████████████████░░   92.75 % 
-Copilot CLI              4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+VS Code                  16 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-backend                  24 mins             █████████░░░░░░░░░░░░░░░░   37.96 % 
-website                  24 mins             █████████░░░░░░░░░░░░░░░░   37.49 % 
-frontend                 16 mins             ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
+frontend                 16 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 5 mins         █████████████████████████   100.00 % 
+Mac                      16 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (7.25%)
-
-✍️ 0 lines written by AI, 80 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 8,652 Output Tokens
-
-💵 $0.26 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 36 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -583,7 +561,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 01:00:47 UTC
+ Last Updated on 09/08/2026 01:04:20 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
