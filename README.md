@@ -481,7 +481,7 @@ Interested in: AI-powered products · EdTech · HealthTech · High-growth startu
 > 🔄 *Auto-updated every 24 hours via GitHub Actions pipeline*
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C277%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C280%20hrs%2041%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-58%20mins-blue?style=flat)
 
@@ -491,7 +491,7 @@ Interested in: AI-powered products · EdTech · HealthTech · High-growth startu
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 437 Contributions in the Year 2026
+> 🏆 441 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -502,21 +502,21 @@ Interested in: AI-powered products · EdTech · HealthTech · High-growth startu
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                589 commits         ████████░░░░░░░░░░░░░░░░░   33.37 % 
-🌆 Daytime                515 commits         ███████░░░░░░░░░░░░░░░░░░   29.18 % 
-🌃 Evening                506 commits         ███████░░░░░░░░░░░░░░░░░░   28.67 % 
-🌙 Night                  155 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+🌞 Morning                592 commits         ████████░░░░░░░░░░░░░░░░░   33.47 % 
+🌆 Daytime                516 commits         ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+🌃 Evening                506 commits         ███████░░░░░░░░░░░░░░░░░░   28.60 % 
+🌙 Night                  155 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   263 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Tuesday                  267 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-Wednesday                251 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Thursday                 274 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Friday                   268 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Saturday                 269 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Sunday                   173 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Monday                   263 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Tuesday                  267 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Wednesday                255 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Thursday                 274 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Friday                   268 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Saturday                 269 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Sunday                   173 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
 ```
 
 
@@ -526,19 +526,21 @@ Sunday                   173 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               2 hrs 58 mins       ██████████████████████░░░   88.41 % 
-CSS                      23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+TypeScript               5 hrs 38 mins       ██████████████████████░░░   86.62 % 
+CSS                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 21 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cribevent                3 hrs 21 mins       █████████████████████████   99.97 % 
-frontend                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+cribevent                6 hrs 30 mins       █████████████████████████   99.98 % 
+frontend                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      3 hrs 21 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -564,7 +566,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2026 01:12:47 UTC
+ Last Updated on 13/08/2026 01:14:56 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
