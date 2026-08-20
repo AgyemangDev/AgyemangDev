@@ -526,33 +526,33 @@ Sunday                   174 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               7 hrs 8 mins        █████████████████████░░░░   82.08 % 
-Bash                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+TypeScript               4 hrs 29 mins       ████████████████████░░░░░   80.60 % 
+Bash                     34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 32 mins       █████████████████████████   98.17 % 
-Copilot CLI              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+VS Code                  5 hrs 24 mins       ████████████████████████░   97.14 % 
+Copilot CLI              9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 🐱‍💻 Projects: 
-cribevent                6 hrs 54 mins       ████████████████████░░░░░   79.30 % 
-Tiinatii_mobile          52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-tiinatii.io              26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-hostelhubbmobile         24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-dashboard                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+cribevent                3 hrs 45 mins       █████████████████░░░░░░░░   67.62 % 
+Tiinatii_mobile          52 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+tiinatii.io              26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+hostelhubbmobile         24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+dashboard                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 
 💻 Operating System: 
-Mac                      8 hrs 42 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (1.83%)
+⏱ AI Coding Time: 9 mins (2.86%)
 
-✍️ 210 lines written by AI, 4,962 lines written by hand (4.06% AI-written)
+✍️ 210 lines written by AI, 3,340 lines written by hand (5.92% AI-written)
 
 🔤 91,139 Input Tokens, 10,132 Output Tokens
 
@@ -563,10 +563,10 @@ Mac                      8 hrs 42 mins       ███████████�
 GPT                      210 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 4.06% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 5.92% of written lines came from AI
 📝 Concise Prompter — average 0 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 96.96% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 95.46% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -586,7 +586,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 00:45:53 UTC
+ Last Updated on 20/08/2026 00:45:59 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
