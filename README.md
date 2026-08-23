@@ -481,7 +481,7 @@ Interested in: AI-powered products · EdTech · HealthTech · High-growth startu
 > 🔄 *Auto-updated every 24 hours via GitHub Actions pipeline*
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C288%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C289%20hrs%2024%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%207%20mins-blue?style=flat)
 
@@ -491,32 +491,32 @@ Interested in: AI-powered products · EdTech · HealthTech · High-growth startu
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 442 Contributions in the Year 2026
+> 🏆 443 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 34 Public Repositories 
+> 📜 33 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                601 commits         ████████░░░░░░░░░░░░░░░░░   33.48 % 
-🌆 Daytime                525 commits         ███████░░░░░░░░░░░░░░░░░░   29.25 % 
-🌃 Evening                512 commits         ███████░░░░░░░░░░░░░░░░░░   28.52 % 
-🌙 Night                  157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+🌞 Morning                603 commits         ████████░░░░░░░░░░░░░░░░░   33.44 % 
+🌆 Daytime                528 commits         ███████░░░░░░░░░░░░░░░░░░   29.28 % 
+🌃 Evening                515 commits         ███████░░░░░░░░░░░░░░░░░░   28.56 % 
+🌙 Night                  157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   268 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Tuesday                  271 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Wednesday                259 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Thursday                 277 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Friday                   272 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Saturday                 274 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Sunday                   174 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+Monday                   270 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+Tuesday                  272 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Wednesday                261 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Thursday                 277 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Friday                   273 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Saturday                 275 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+Sunday                   175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
 ```
 
 
@@ -526,32 +526,32 @@ Sunday                   174 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               2 hrs 41 mins       ███████████████░░░░░░░░░░   59.69 % 
-Bash                     52 mins             █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-JSON                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+TypeScript               2 hrs 19 mins       ███████████████░░░░░░░░░░   58.91 % 
+Bash                     40 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+JSON                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 20 mins       ████████████████████████░   96.46 % 
-Copilot CLI              9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+VS Code                  3 hrs 47 mins       ████████████████████████░   95.98 % 
+Copilot CLI              9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 
 🐱‍💻 Projects: 
-Tiinatii_mobile          3 hrs 22 mins       ███████████████████░░░░░░   75.02 % 
-tiinatii.io              38 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-hostelhubbmobile         24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-dashboard                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Tiinatii_mobile          3 hrs 12 mins       ████████████████████░░░░░   81.18 % 
+hostelhubbmobile         24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+tiinatii.io              15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+dashboard                5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 💻 Operating System: 
-Mac                      4 hrs 29 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (3.54%)
+⏱ AI Coding Time: 9 mins (4.02%)
 
-✍️ 210 lines written by AI, 1,579 lines written by hand (11.74% AI-written)
+✍️ 210 lines written by AI, 1,461 lines written by hand (12.57% AI-written)
 
 🔤 67,370 Input Tokens, 10,132 Output Tokens
 
@@ -562,10 +562,10 @@ Mac                      4 hrs 29 mins       ███████████�
 GPT                      210 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 11.74% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 12.57% of written lines came from AI
 📝 Concise Prompter — average 0 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 91.38% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 90.89% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -585,7 +585,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 00:45:33 UTC
+ Last Updated on 23/08/2026 00:50:01 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
