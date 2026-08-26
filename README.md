@@ -485,7 +485,7 @@ Interested in: AI-powered products · EdTech · HealthTech · High-growth startu
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%207%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -526,47 +526,29 @@ Sunday                   175 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               3 hrs 48 mins       ████████████░░░░░░░░░░░░░   49.26 % 
-TypeScript               2 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   30.19 % 
-Bash                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+JavaScript               3 hrs 48 mins       █████████████░░░░░░░░░░░░   50.87 % 
+TypeScript               2 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   30.04 % 
+Bash                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 33 mins       ████████████████████████░   97.94 % 
-Copilot CLI              9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+VS Code                  7 hrs 28 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-hostelhubbmobile         3 hrs 26 mins       ███████████░░░░░░░░░░░░░░   44.54 % 
-Tiinatii_mobile          3 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   41.60 % 
-hostelhubbmobilebackend  43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-tiinatii.io              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-dashboard                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+hostelhubbmobile         3 hrs 26 mins       ████████████░░░░░░░░░░░░░   46.00 % 
+Tiinatii_mobile          3 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   40.83 % 
+hostelhubbmobilebackend  43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+tiinatii.io              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 
 💻 Operating System: 
-Mac                      7 hrs 43 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (2.06%)
-
-✍️ 210 lines written by AI, 3,724 lines written by hand (5.34% AI-written)
-
-🔤 67,370 Input Tokens, 10,132 Output Tokens
-
-💵 $1.09 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 0 AI Prompts
-
-GPT                      210 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 5.34% of written lines came from AI
-📝 Concise Prompter — average 0 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 96.36% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -586,7 +568,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2026 00:46:48 UTC
+ Last Updated on 26/08/2026 00:48:07 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
