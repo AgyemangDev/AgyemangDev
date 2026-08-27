@@ -502,21 +502,21 @@ Interested in: AI-powered products · EdTech · HealthTech · High-growth startu
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                603 commits         ████████░░░░░░░░░░░░░░░░░   33.44 % 
-🌆 Daytime                528 commits         ███████░░░░░░░░░░░░░░░░░░   29.28 % 
-🌃 Evening                515 commits         ███████░░░░░░░░░░░░░░░░░░   28.56 % 
-🌙 Night                  157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+🌞 Morning                603 commits         ████████░░░░░░░░░░░░░░░░░   33.28 % 
+🌆 Daytime                528 commits         ███████░░░░░░░░░░░░░░░░░░   29.14 % 
+🌃 Evening                524 commits         ███████░░░░░░░░░░░░░░░░░░   28.92 % 
+🌙 Night                  157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   270 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-Tuesday                  272 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Wednesday                261 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Thursday                 277 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Friday                   273 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Saturday                 275 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Sunday                   175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Monday                   270 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Tuesday                  272 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Wednesday                264 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Thursday                 277 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Friday                   279 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Saturday                 275 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Sunday                   175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
 ```
 
 
@@ -526,23 +526,23 @@ Sunday                   175 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               3 hrs 48 mins       █████████████░░░░░░░░░░░░   50.87 % 
-TypeScript               2 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   30.04 % 
-Bash                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+JavaScript               3 hrs 48 mins       █████████████░░░░░░░░░░░░   51.71 % 
+TypeScript               2 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   30.48 % 
+Bash                     44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 28 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-hostelhubbmobile         3 hrs 26 mins       ████████████░░░░░░░░░░░░░   46.00 % 
-Tiinatii_mobile          3 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   40.83 % 
-hostelhubbmobilebackend  43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-tiinatii.io              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+hostelhubbmobile         3 hrs 28 mins       ████████████░░░░░░░░░░░░░   47.16 % 
+Tiinatii_mobile          2 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   39.03 % 
+hostelhubbmobilebackend  45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+tiinatii.io              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 
 💻 Operating System: 
-Mac                      7 hrs 28 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -568,7 +568,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 00:48:07 UTC
+ Last Updated on 27/08/2026 05:58:48 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
