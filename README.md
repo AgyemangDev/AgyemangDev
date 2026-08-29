@@ -526,23 +526,21 @@ Sunday                   175 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               3 hrs 48 mins       ████████████████████░░░░░   78.55 % 
-TypeScript               30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Bash                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+JavaScript               3 hrs 48 mins       ██████████████████████░░░   89.97 % 
+Bash                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Scilab                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 50 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 14 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-hostelhubbmobile         3 hrs 28 mins       ██████████████████░░░░░░░   71.64 % 
-hostelhubbmobilebackend  45 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Tiinatii_mobile          33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-tiinatii.io              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+hostelhubbmobile         3 hrs 28 mins       █████████████████████░░░░   82.06 % 
+hostelhubbmobilebackend  45 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
 
 💻 Operating System: 
-Mac                      4 hrs 50 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -568,7 +566,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 08:10:40 UTC
+ Last Updated on 29/08/2026 04:57:11 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
