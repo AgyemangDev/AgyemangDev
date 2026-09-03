@@ -481,7 +481,7 @@ Interested in: AI-powered products · EdTech · HealthTech · High-growth startu
 > 🔄 *Auto-updated every 24 hours via GitHub Actions pipeline*
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C293%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C293%20hrs%2059%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%207%20mins-blue?style=flat)
 
@@ -526,19 +526,23 @@ Sunday                   175 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               17 mins             ███████████████████████░░   93.26 % 
-Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+JavaScript               17 mins             █████████████████░░░░░░░░   69.31 % 
+JSON                     6 mins              ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
+Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.00 % 
+VS Code                  25 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-hostelhubbmanagementsyste12 mins             ████████████████░░░░░░░░░   65.47 % 
-hostelhubbmobilebackend  6 mins              █████████░░░░░░░░░░░░░░░░   34.53 % 
+hostelhubbmanagementsyste12 mins             ████████████░░░░░░░░░░░░░   47.65 % 
+hostelhubbmobilebackend  6 mins              ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
+amalia-web               6 mins              ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
+hostelhubbmobile         0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 💻 Operating System: 
-Mac                      18 mins             █████████████████████████   100.00 % 
+Mac                      25 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -564,7 +568,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2026 02:09:58 UTC
+ Last Updated on 03/09/2026 02:15:38 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
