@@ -481,9 +481,9 @@ Interested in: AI-powered products · EdTech · HealthTech · High-growth startu
 > 🔄 *Auto-updated every 24 hours via GitHub Actions pipeline*
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C293%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C295%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -491,7 +491,7 @@ Interested in: AI-powered products · EdTech · HealthTech · High-growth startu
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 445 Contributions in the Year 2026
+> 🏆 452 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -502,21 +502,21 @@ Interested in: AI-powered products · EdTech · HealthTech · High-growth startu
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                603 commits         ████████░░░░░░░░░░░░░░░░░   33.19 % 
-🌆 Daytime                528 commits         ███████░░░░░░░░░░░░░░░░░░   29.06 % 
-🌃 Evening                529 commits         ███████░░░░░░░░░░░░░░░░░░   29.11 % 
-🌙 Night                  157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+🌞 Morning                603 commits         ████████░░░░░░░░░░░░░░░░░   33.06 % 
+🌆 Daytime                531 commits         ███████░░░░░░░░░░░░░░░░░░   29.11 % 
+🌃 Evening                532 commits         ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+🌙 Night                  158 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   272 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Tuesday                  272 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Wednesday                265 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Thursday                 277 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Friday                   281 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Saturday                 275 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-Sunday                   175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Monday                   272 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Tuesday                  272 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Wednesday                265 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Thursday                 283 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Friday                   282 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Saturday                 275 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Sunday                   175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
 ```
 
 
@@ -526,29 +526,46 @@ Sunday                   175 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               17 mins             █████████████████░░░░░░░░   69.31 % 
-JSON                     6 mins              ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+YAML                     31 mins             ████████░░░░░░░░░░░░░░░░░   33.25 % 
+Bash                     19 mins             █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+JavaScript               17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+TypeScript               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
 
 🔥 Editors: 
-VS Code                  25 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 20 mins        █████████████████████░░░░   84.41 % 
+Claude Code              14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
 
 🐱‍💻 Projects: 
-hostelhubbmanagementsyste12 mins             ████████████░░░░░░░░░░░░░   47.65 % 
-hostelhubbmobilebackend  6 mins              ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
-amalia-web               6 mins              ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
-hostelhubbmobile         0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+amalia-web               1 hr 16 mins        ████████████████████░░░░░   80.02 % 
+hostelhubbmanagementsyste12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+hostelhubbmobilebackend  6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+hostelhubbmobile         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 💻 Operating System: 
-Mac                      25 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 35 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 16 mins (16.85%)
+
+✍️ 31 lines written by AI, 165 lines written by hand (15.82% AI-written)
+
+🔤 92,765 Input Tokens, 13,795 Output Tokens
+
+💵 $0.71 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 5 AI Prompts
+
+Sonnet                   31 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 15.82% of written lines came from AI
+📝 Concise Prompter — average 75 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 91.22% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -568,7 +585,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2026 02:15:38 UTC
+ Last Updated on 04/09/2026 02:11:33 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
