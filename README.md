@@ -481,9 +481,9 @@ Interested in: AI-powered products · EdTech · HealthTech · High-growth startu
 > 🔄 *Auto-updated every 24 hours via GitHub Actions pipeline*
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C313%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C315%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -526,47 +526,47 @@ Sunday                   178 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               11 hrs 38 mins      ██████████████░░░░░░░░░░░   57.95 % 
-JavaScript               4 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
-Markdown                 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-Gherkin                  42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-Other                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+TypeScript               13 hrs 35 mins      ████████████████░░░░░░░░░   63.26 % 
+JavaScript               4 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
+Markdown                 1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Gherkin                  42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Other                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 46 mins      ████████████████░░░░░░░░░   63.59 % 
-Claude Code              7 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   36.41 % 
+VS Code                  12 hrs 47 mins      ███████████████░░░░░░░░░░   59.58 % 
+Claude Code              8 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   40.42 % 
 
 🐱‍💻 Projects: 
-amalia-web               14 hrs 14 mins      ██████████████████░░░░░░░   70.88 % 
-hostelhubbmanagementsyste3 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-hostelhubbmobile         1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-hostelhubbmobilebackend  1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+amalia-web               15 hrs 35 mins      ██████████████████░░░░░░░   72.59 % 
+hostelhubbmanagementsyste3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+hostelhubbmobile         1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+hostelhubbmobilebackend  1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
 
 💻 Operating System: 
-Mac                      20 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      21 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 4 mins (45.21%)
+⏱ AI Coding Time: 10 hrs 35 mins (49.35%)
 
-✍️ 437 lines written by AI, 7,185 lines written by hand (5.73% AI-written)
+✍️ 509 lines written by AI, 7,096 lines written by hand (6.69% AI-written)
 
-🔤 1,849,812 Input Tokens, 342,480 Output Tokens
+🔤 2,419,587 Input Tokens, 415,495 Output Tokens
 
-💵 $28.27 Estimated AI Cost This Week
+💵 $38.67 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 96 AI Prompts
+🧠 13 AI Sessions, 101 AI Prompts
 
-Sonnet                   473 lines           █████████████████████████   100.00 % 
+Sonnet                   592 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 5.73% of written lines came from AI
-📄 Detailed Prompter — average 1,279 characters per prompt
+🧑‍💻 Mostly Hands-On — 6.69% of written lines came from AI
+📚 Verbose Prompter — average 1,760 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 97.23% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 96.51% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -586,7 +586,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 02:18:16 UTC
+ Last Updated on 11/09/2026 02:14:40 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
