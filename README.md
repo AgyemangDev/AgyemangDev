@@ -481,7 +481,7 @@ Interested in: AI-powered products · EdTech · HealthTech · High-growth startu
 > 🔄 *Auto-updated every 24 hours via GitHub Actions pipeline*
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C318%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C319%20hrs%2012%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2013%20mins-blue?style=flat)
 
@@ -526,33 +526,33 @@ Sunday                   178 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               10 hrs 32 mins      ███████████████████░░░░░░   74.02 % 
-JavaScript               1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Bash                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+TypeScript               10 hrs 32 mins      ███████████████████░░░░░░   77.17 % 
+JavaScript               1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Bash                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 47 mins       ██████████████░░░░░░░░░░░   54.66 % 
-VS Code                  6 hrs 27 mins       ███████████░░░░░░░░░░░░░░   45.34 % 
+Claude Code              7 hrs 47 mins       ██████████████░░░░░░░░░░░   56.99 % 
+VS Code                  5 hrs 52 mins       ███████████░░░░░░░░░░░░░░   43.01 % 
 
 🐱‍💻 Projects: 
-amalia-web               11 hrs 27 mins      ████████████████████░░░░░   80.39 % 
-backend                  49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-Hostelhubbwebpage        39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-hostelhubbmobilebackend  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-hostelhubbmanagementsyste21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+amalia-web               11 hrs 27 mins      █████████████████████░░░░   83.81 % 
+backend                  51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Hostelhubbwebpage        39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+frontend                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+hostelhubb               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 💻 Operating System: 
-Mac                      14 hrs 14 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 40 mins (67.98%)
+⏱ AI Coding Time: 9 hrs 40 mins (70.86%)
 
-✍️ 1,818 lines written by AI, 1,199 lines written by hand (60.26% AI-written)
+✍️ 1,818 lines written by AI, 893 lines written by hand (67.06% AI-written)
 
 🔤 3,003,360 Input Tokens, 486,606 Output Tokens
 
@@ -563,10 +563,10 @@ Mac                      14 hrs 14 mins      ███████████�
 Sonnet                   1,951 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 60.26% of written lines came from AI
+🤖 AI-Driven — 67.06% of written lines came from AI
 📄 Detailed Prompter — average 1,388 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 51.58% of changed lines were hand-edited
+🚀 High AI Trust — 46.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -586,7 +586,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 02:36:18 UTC
+ Last Updated on 15/09/2026 02:39:58 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
