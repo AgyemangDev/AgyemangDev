@@ -526,47 +526,47 @@ Sunday                   178 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               10 hrs 32 mins      ███████████████████░░░░░░   77.17 % 
-JavaScript               1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-Bash                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+TypeScript               8 hrs 13 mins       ██████████████████░░░░░░░   73.12 % 
+JavaScript               1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+Bash                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 47 mins       ██████████████░░░░░░░░░░░   56.99 % 
-VS Code                  5 hrs 52 mins       ███████████░░░░░░░░░░░░░░   43.01 % 
+Claude Code              7 hrs               ████████████████░░░░░░░░░   62.29 % 
+VS Code                  4 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   37.71 % 
 
 🐱‍💻 Projects: 
-amalia-web               11 hrs 27 mins      █████████████████████░░░░   83.81 % 
-backend                  51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-Hostelhubbwebpage        39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-frontend                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-hostelhubb               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+amalia-web               9 hrs 2 mins        ████████████████████░░░░░   80.34 % 
+backend                  51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+Hostelhubbwebpage        39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+frontend                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+hostelhubb               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 💻 Operating System: 
-Mac                      13 hrs 39 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 40 mins (70.86%)
+⏱ AI Coding Time: 7 hrs 59 mins (70.94%)
 
-✍️ 1,818 lines written by AI, 893 lines written by hand (67.06% AI-written)
+✍️ 1,648 lines written by AI, 826 lines written by hand (66.61% AI-written)
 
-🔤 3,003,360 Input Tokens, 486,606 Output Tokens
+🔤 2,723,885 Input Tokens, 437,607 Output Tokens
 
-💵 $44.29 Estimated AI Cost This Week
+💵 $40.94 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 97 AI Prompts
+🧠 12 AI Sessions, 79 AI Prompts
 
-Sonnet                   1,951 lines         █████████████████████████   100.00 % 
+Sonnet                   1,781 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 67.06% of written lines came from AI
-📄 Detailed Prompter — average 1,388 characters per prompt
+🤖 AI-Driven — 66.61% of written lines came from AI
+📚 Verbose Prompter — average 1,627 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 46.02% of changed lines were hand-edited
+🚀 High AI Trust — 43.5% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -586,7 +586,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 02:39:58 UTC
+ Last Updated on 16/09/2026 02:34:16 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
