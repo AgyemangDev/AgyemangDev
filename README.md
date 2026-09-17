@@ -491,7 +491,7 @@ Interested in: AI-powered products · EdTech · HealthTech · High-growth startu
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 477 Contributions in the Year 2026
+> 🏆 481 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -502,21 +502,21 @@ Interested in: AI-powered products · EdTech · HealthTech · High-growth startu
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                615 commits         ████████░░░░░░░░░░░░░░░░░   33.26 % 
-🌆 Daytime                535 commits         ███████░░░░░░░░░░░░░░░░░░   28.93 % 
-🌃 Evening                541 commits         ███████░░░░░░░░░░░░░░░░░░   29.26 % 
-🌙 Night                  158 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+🌞 Morning                615 commits         ████████░░░░░░░░░░░░░░░░░   33.19 % 
+🌆 Daytime                535 commits         ███████░░░░░░░░░░░░░░░░░░   28.87 % 
+🌃 Evening                545 commits         ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+🌙 Night                  158 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   272 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Tuesday                  272 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Wednesday                265 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Thursday                 283 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Friday                   292 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Saturday                 287 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Sunday                   178 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Monday                   272 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Tuesday                  272 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Wednesday                269 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Thursday                 283 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Friday                   292 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Saturday                 287 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Sunday                   178 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
 ```
 
 
@@ -526,47 +526,47 @@ Sunday                   178 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               8 hrs 13 mins       ██████████████████░░░░░░░   73.12 % 
-JavaScript               1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Bash                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+TypeScript               3 hrs 13 mins       █████████████░░░░░░░░░░░░   51.68 % 
+JavaScript               1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
+Bash                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Other                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Markdown                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
 
 🔥 Editors: 
-Claude Code              7 hrs               ████████████████░░░░░░░░░   62.29 % 
-VS Code                  4 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   37.71 % 
+Claude Code              3 hrs 47 mins       ███████████████░░░░░░░░░░   60.79 % 
+VS Code                  2 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   39.21 % 
 
 🐱‍💻 Projects: 
-amalia-web               9 hrs 2 mins        ████████████████████░░░░░   80.34 % 
-backend                  51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-Hostelhubbwebpage        39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-frontend                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-hostelhubb               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+amalia-web               4 hrs 2 mins        ████████████████░░░░░░░░░   64.59 % 
+backend                  51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Hostelhubbwebpage        39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+frontend                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+hostelhubb               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 
 💻 Operating System: 
-Mac                      11 hrs 15 mins      █████████████████████████   100.00 % 
+Mac                      6 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 59 mins (70.94%)
+⏱ AI Coding Time: 4 hrs 1 min (64.37%)
 
-✍️ 1,648 lines written by AI, 826 lines written by hand (66.61% AI-written)
+✍️ 1,448 lines written by AI, 732 lines written by hand (66.42% AI-written)
 
-🔤 2,723,885 Input Tokens, 437,607 Output Tokens
+🔤 1,691,273 Input Tokens, 274,170 Output Tokens
 
-💵 $40.94 Estimated AI Cost This Week
+💵 $26.03 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 79 AI Prompts
+🧠 8 AI Sessions, 41 AI Prompts
 
-Sonnet                   1,781 lines         █████████████████████████   100.00 % 
+Sonnet                   1,559 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 66.61% of written lines came from AI
-📚 Verbose Prompter — average 1,627 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 43.5% of changed lines were hand-edited
+🤖 AI-Driven — 66.42% of written lines came from AI
+📚 Verbose Prompter — average 2,682 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 44.1% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -586,7 +586,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2026 02:34:16 UTC
+ Last Updated on 17/09/2026 02:38:18 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
