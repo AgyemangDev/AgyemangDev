@@ -481,7 +481,7 @@ Interested in: AI-powered products · EdTech · HealthTech · High-growth startu
 > 🔄 *Auto-updated every 24 hours via GitHub Actions pipeline*
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C335%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C339%20hrs%2010%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%2030%20mins-blue?style=flat)
 
@@ -499,78 +499,6 @@ Interested in: AI-powered products · EdTech · HealthTech · High-growth startu
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                636 commits         ████████░░░░░░░░░░░░░░░░░   33.63 % 
-🌆 Daytime                545 commits         ███████░░░░░░░░░░░░░░░░░░   28.82 % 
-🌃 Evening                552 commits         ███████░░░░░░░░░░░░░░░░░░   29.19 % 
-🌙 Night                  158 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   276 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Tuesday                  288 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Wednesday                269 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Thursday                 288 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Friday                   294 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Saturday                 292 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Sunday                   184 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-JavaScript               9 hrs 41 mins       █████████████░░░░░░░░░░░░   51.77 % 
-Other                    3 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-JSON                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-TypeScript               1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-SQL                      1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-
-🔥 Editors: 
-Copilot CLI              9 hrs 42 mins       █████████████░░░░░░░░░░░░   51.93 % 
-Claude Code              4 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   26.39 % 
-VS Code                  4 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
-
-🐱‍💻 Projects: 
-hostelhubbmobilebackend  4 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   26.42 % 
-hostelhubbmobile         3 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
-hostelhubb               2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-hostelhubbweb            2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-backend                  1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-
-💻 Operating System: 
-Mac                      18 hrs 42 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 16 hrs 13 mins (86.7%)
-
-✍️ 8,673 lines written by AI, 458 lines written by hand (94.98% AI-written)
-
-🔤 4,168,811 Input Tokens, 680,128 Output Tokens
-
-💵 $52.13 Estimated AI Cost This Week
-
-🧠 9 AI Sessions, 159 AI Prompts
-
-Sonnet                   6,190 lines         █████████████████░░░░░░░░   69.08 % 
-GPT                      2,771 lines         ████████░░░░░░░░░░░░░░░░░   30.92 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 94.98% of written lines came from AI
-📚 Verbose Prompter — average 2,242 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 6.64% of changed lines were hand-edited
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -588,7 +516,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 02:41:59 UTC
+ Last Updated on 26/09/2026 02:44:33 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
