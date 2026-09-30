@@ -526,49 +526,49 @@ Sunday                   186 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               6 hrs 29 mins       ████████████░░░░░░░░░░░░░   49.03 % 
-TypeScript               1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Other                    1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-JSON                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-SQL                      51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+JavaScript               3 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   40.25 % 
+TypeScript               1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Python                   53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+JSON                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Java                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 45 mins       █████████████░░░░░░░░░░░░   51.15 % 
-Copilot CLI              6 hrs 27 mins       ████████████░░░░░░░░░░░░░   48.85 % 
+VS Code                  5 hrs 59 mins       █████████████████░░░░░░░░   66.59 % 
+Copilot CLI              3 hrs               ████████░░░░░░░░░░░░░░░░░   33.41 % 
 
 🐱‍💻 Projects: 
-hostelhubbweb            4 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   32.81 % 
-backend                  1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-hostelhubb               1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-hostelhubbmobilebackend  1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Lotnis                   55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+hostelhubbweb            2 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   29.99 % 
+backend                  1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+Lotnis                   55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+webapp                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Unknown Project          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
 
 💻 Operating System: 
-Mac                      12 hrs 35 mins      ████████████████████████░   95.26 % 
-Windows                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Mac                      8 hrs 22 mins       ███████████████████████░░   93.04 % 
+Windows                  37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 28 mins (56.49%)
+⏱ AI Coding Time: 3 hrs 13 mins (35.88%)
 
-✍️ 5,418 lines written by AI, 1,613 lines written by hand (77.06% AI-written)
+✍️ 3,850 lines written by AI, 7,111 lines written by hand (35.12% AI-written)
 
 🔤 4,293,992 Input Tokens, 576,987 Output Tokens
 
 💵 $37.72 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 75 AI Prompts
+🧠 5 AI Sessions, 27 AI Prompts
 
-Sonnet                   3,547 lines         ████████████████░░░░░░░░░   65.25 % 
-GPT                      1,889 lines         █████████░░░░░░░░░░░░░░░░   34.75 % 
+Sonnet                   3,547 lines         ███████████████████████░░   91.99 % 
+GPT                      309 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 77.06% of written lines came from AI
-📄 Detailed Prompter — average 892 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 33.72% of changed lines were hand-edited
+⚖️ Balanced with AI — 35.12% of written lines came from AI
+📄 Detailed Prompter — average 723 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 75.91% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -588,7 +588,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 03:29:01 UTC
+ Last Updated on 30/09/2026 03:12:15 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
