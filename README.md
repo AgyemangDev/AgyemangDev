@@ -481,7 +481,7 @@ Interested in: AI-powered products · EdTech · HealthTech · High-growth startu
 > 🔄 *Auto-updated every 24 hours via GitHub Actions pipeline*
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C340%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C340%20hrs%2035%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%2035%20mins-blue?style=flat)
 
@@ -526,49 +526,48 @@ Sunday                   186 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               3 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   40.25 % 
-TypeScript               1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Python                   53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-JSON                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Java                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+JavaScript               3 hrs 10 mins       ██████████████░░░░░░░░░░░   57.53 % 
+Python                   53 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Java                     49 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+TypeScript               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 59 mins       █████████████████░░░░░░░░   66.59 % 
-Copilot CLI              3 hrs               ████████░░░░░░░░░░░░░░░░░   33.41 % 
+VS Code                  5 hrs 26 mins       █████████████████████████   98.31 % 
+Copilot CLI              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 🐱‍💻 Projects: 
-hostelhubbweb            2 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   29.99 % 
-backend                  1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Lotnis                   55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-webapp                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-Unknown Project          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+hostelhubbweb            2 hrs 42 mins       ████████████░░░░░░░░░░░░░   48.87 % 
+Unknown Project          28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+files                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Generative AI            24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+JavaProjects             21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
 
 💻 Operating System: 
-Mac                      8 hrs 22 mins       ███████████████████████░░   93.04 % 
-Windows                  37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Mac                      4 hrs 54 mins       ██████████████████████░░░   88.66 % 
+Windows                  37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 13 mins (35.88%)
+⏱ AI Coding Time: 5 mins (1.72%)
 
-✍️ 3,850 lines written by AI, 7,111 lines written by hand (35.12% AI-written)
+✍️ 0 lines written by AI, 7,087 lines written by hand (0.0% AI-written)
 
 🔤 4,293,992 Input Tokens, 576,987 Output Tokens
 
 💵 $37.72 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 27 AI Prompts
+🧠 2 AI Sessions, 0 AI Prompts
 
-Sonnet                   3,547 lines         ███████████████████████░░   91.99 % 
-GPT                      309 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 35.12% of written lines came from AI
-📄 Detailed Prompter — average 723 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 75.91% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 0 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -588,7 +587,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 03:12:15 UTC
+ Last Updated on 01/10/2026 03:18:55 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
