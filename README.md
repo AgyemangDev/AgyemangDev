@@ -491,7 +491,7 @@ Interested in: AI-powered products · EdTech · HealthTech · High-growth startu
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 521 Contributions in the Year 2026
+> 🏆 522 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -526,34 +526,34 @@ Sunday                   186 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               3 hrs 10 mins       ██████████████░░░░░░░░░░░   57.53 % 
-Python                   53 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-Java                     49 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-TypeScript               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Python                   53 mins             ███████░░░░░░░░░░░░░░░░░░   29.08 % 
+Java                     42 mins             ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
+JavaScript               41 mins             ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+TypeScript               25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 26 mins       █████████████████████████   98.31 % 
-Copilot CLI              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+VS Code                  2 hrs 58 mins       ████████████████████████░   96.95 % 
+Copilot CLI              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
 
 🐱‍💻 Projects: 
-hostelhubbweb            2 hrs 42 mins       ████████████░░░░░░░░░░░░░   48.87 % 
-Unknown Project          28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-files                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-Generative AI            24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-JavaProjects             21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+files                    36 mins             █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+Unknown Project          28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Generative AI            24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+mobileapp                20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+hostelhubbmanagementsyste17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
 
 💻 Operating System: 
-Mac                      4 hrs 54 mins       ██████████████████████░░░   88.66 % 
-Windows                  37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Mac                      2 hrs 26 mins       ████████████████████░░░░░   79.55 % 
+Windows                  37 mins             █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (1.72%)
+⏱ AI Coding Time: 5 mins (3.11%)
 
-✍️ 0 lines written by AI, 7,087 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 6,358 lines written by hand (0.0% AI-written)
 
 🔤 4,293,992 Input Tokens, 576,987 Output Tokens
 
@@ -587,7 +587,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 03:18:55 UTC
+ Last Updated on 02/10/2026 03:19:41 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
