@@ -502,21 +502,21 @@ Interested in: AI-powered products · EdTech · HealthTech · High-growth startu
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                637 commits         ████████░░░░░░░░░░░░░░░░░   33.60 % 
-🌆 Daytime                547 commits         ███████░░░░░░░░░░░░░░░░░░   28.85 % 
-🌃 Evening                554 commits         ███████░░░░░░░░░░░░░░░░░░   29.22 % 
-🌙 Night                  158 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+🌞 Morning                639 commits         ████████░░░░░░░░░░░░░░░░░   33.67 % 
+🌆 Daytime                547 commits         ███████░░░░░░░░░░░░░░░░░░   28.82 % 
+🌃 Evening                554 commits         ███████░░░░░░░░░░░░░░░░░░   29.19 % 
+🌙 Night                  158 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   276 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Tuesday                  288 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Wednesday                269 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Thursday                 288 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Friday                   294 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Saturday                 295 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Sunday                   186 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+Monday                   276 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Tuesday                  288 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+Wednesday                269 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Thursday                 289 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Friday                   294 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Saturday                 296 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Sunday                   186 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
 ```
 
 
@@ -526,34 +526,34 @@ Sunday                   186 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   1 hr 41 mins        ████████████░░░░░░░░░░░░░   48.03 % 
-JavaScript               36 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-TypeScript               24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-Markdown                 24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Java                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+Python                   1 hr 41 mins        █████████████░░░░░░░░░░░░   50.60 % 
+JavaScript               43 mins             █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
+Markdown                 22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+TypeScript               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Java                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 26 mins       ████████████████████████░   97.35 % 
-Copilot CLI              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+VS Code                  3 hrs 15 mins       ████████████████████████░   97.21 % 
+Copilot CLI              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 
 🐱‍💻 Projects: 
-Generative AI            1 hr 25 mins        ██████████░░░░░░░░░░░░░░░   40.53 % 
-files                    22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-mobileapp                20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-hostelhubbmanagementsyste17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Unknown Project          15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Generative AI            1 hr 25 mins        ███████████░░░░░░░░░░░░░░   42.71 % 
+hostelhubbmobile         28 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+files                    22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Unknown Project          15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+hostelhubbweb            15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 
 💻 Operating System: 
-Mac                      2 hrs 5 mins        ███████████████░░░░░░░░░░   59.47 % 
-Windows                  1 hr 25 mins        ██████████░░░░░░░░░░░░░░░   40.53 % 
+Mac                      1 hr 55 mins        ██████████████░░░░░░░░░░░   57.29 % 
+Windows                  1 hr 25 mins        ███████████░░░░░░░░░░░░░░   42.71 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (2.7%)
+⏱ AI Coding Time: 5 mins (2.84%)
 
-✍️ 0 lines written by AI, 31,780 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 31,992 lines written by hand (0.0% AI-written)
 
 🔤 4,293,992 Input Tokens, 576,987 Output Tokens
 
@@ -587,7 +587,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2026 03:06:14 UTC
+ Last Updated on 04/10/2026 03:34:30 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
