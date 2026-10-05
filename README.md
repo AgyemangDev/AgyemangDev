@@ -481,7 +481,7 @@ Interested in: AI-powered products · EdTech · HealthTech · High-growth startu
 > 🔄 *Auto-updated every 24 hours via GitHub Actions pipeline*
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C342%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C343%20hrs%206%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%2035%20mins-blue?style=flat)
 
@@ -491,7 +491,7 @@ Interested in: AI-powered products · EdTech · HealthTech · High-growth startu
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 522 Contributions in the Year 2026
+> 🏆 525 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -502,21 +502,21 @@ Interested in: AI-powered products · EdTech · HealthTech · High-growth startu
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                639 commits         ████████░░░░░░░░░░░░░░░░░   33.67 % 
-🌆 Daytime                547 commits         ███████░░░░░░░░░░░░░░░░░░   28.82 % 
-🌃 Evening                554 commits         ███████░░░░░░░░░░░░░░░░░░   29.19 % 
+🌞 Morning                639 commits         ████████░░░░░░░░░░░░░░░░░   33.63 % 
+🌆 Daytime                547 commits         ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+🌃 Evening                556 commits         ███████░░░░░░░░░░░░░░░░░░   29.26 % 
 🌙 Night                  158 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   276 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Tuesday                  288 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-Wednesday                269 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Thursday                 289 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Friday                   294 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Saturday                 296 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Sunday                   186 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Monday                   276 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Tuesday                  288 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Wednesday                269 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Thursday                 289 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Friday                   294 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Saturday                 296 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Sunday                   188 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
 ```
 
 
@@ -526,58 +526,41 @@ Sunday                   186 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   1 hr 41 mins        █████████████░░░░░░░░░░░░   50.60 % 
-JavaScript               43 mins             █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
-Markdown                 22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-TypeScript               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-Java                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+Python                   1 hr 42 mins        ███████████████░░░░░░░░░░   61.21 % 
+JavaScript               28 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Markdown                 22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Java                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 15 mins       ████████████████████████░   97.21 % 
-Copilot CLI              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+VS Code                  2 hrs 48 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Generative AI            1 hr 25 mins        ███████████░░░░░░░░░░░░░░   42.71 % 
-hostelhubbmobile         28 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-files                    22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Unknown Project          15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-hostelhubbweb            15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Generative AI            1 hr 25 mins        █████████████░░░░░░░░░░░░   51.08 % 
+hostelhubbmobile         28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+files                    22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Unknown Project          17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+interface                14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
 
 💻 Operating System: 
-Mac                      1 hr 55 mins        ██████████████░░░░░░░░░░░   57.29 % 
-Windows                  1 hr 25 mins        ███████████░░░░░░░░░░░░░░   42.71 % 
+Windows                  1 hr 25 mins        █████████████░░░░░░░░░░░░   51.08 % 
+Mac                      1 hr 22 mins        ████████████░░░░░░░░░░░░░   48.92 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (2.84%)
-
-✍️ 0 lines written by AI, 31,992 lines written by hand (0.0% AI-written)
-
-🔤 4,293,992 Input Tokens, 576,987 Output Tokens
-
-💵 $37.72 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 0 AI Prompts
-
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 0 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               60 repos            ███████████████░░░░░░░░░░   61.86 % 
-TypeScript               23 repos            ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
-Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+JavaScript               61 repos            ███████████████░░░░░░░░░░   61.62 % 
+TypeScript               24 repos            ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 ```
 
 
@@ -587,7 +570,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 03:34:30 UTC
+ Last Updated on 05/10/2026 03:14:22 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
