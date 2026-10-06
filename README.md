@@ -481,9 +481,9 @@ Interested in: AI-powered products · EdTech · HealthTech · High-growth startu
 > 🔄 *Auto-updated every 24 hours via GitHub Actions pipeline*
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C343%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C344%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -526,31 +526,49 @@ Sunday                   188 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   1 hr 42 mins        ███████████████░░░░░░░░░░   61.21 % 
-JavaScript               28 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Markdown                 22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Java                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Python                   1 hr 42 mins        ██████████░░░░░░░░░░░░░░░   38.64 % 
+Bash                     52 mins             █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+JavaScript               28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Markdown                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+TypeScript               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 48 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 4 mins        ███████████████████████░░   91.72 % 
+Claude Code              22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
 
 🐱‍💻 Projects: 
-Generative AI            1 hr 25 mins        █████████████░░░░░░░░░░░░   51.08 % 
-hostelhubbmobile         28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-files                    22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-Unknown Project          17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-interface                14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+studio-monorepo          1 hr 32 mins        █████████░░░░░░░░░░░░░░░░   34.65 % 
+Generative AI            1 hr 25 mins        ████████░░░░░░░░░░░░░░░░░   32.24 % 
+hostelhubbmobile         28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+files                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Unknown Project          17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
 
 💻 Operating System: 
-Windows                  1 hr 25 mins        █████████████░░░░░░░░░░░░   51.08 % 
-Mac                      1 hr 22 mins        ████████████░░░░░░░░░░░░░   48.92 % 
+Mac                      3 hrs               █████████████████░░░░░░░░   67.76 % 
+Windows                  1 hr 25 mins        ████████░░░░░░░░░░░░░░░░░   32.24 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 23 mins (8.9%)
+
+✍️ 17 lines written by AI, 32,266 lines written by hand (0.05% AI-written)
+
+🔤 179,790 Input Tokens, 23,747 Output Tokens
+
+💵 $2.00 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 8 AI Prompts
+
+Opus                     17 lines            █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.05% of written lines came from AI
+📝 Concise Prompter — average 91 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 99.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -570,7 +588,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
 
 
- Last Updated on 05/10/2026 03:14:22 UTC
+ Last Updated on 06/10/2026 04:02:30 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
