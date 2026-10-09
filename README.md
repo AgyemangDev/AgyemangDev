@@ -526,49 +526,49 @@ Sunday                   188 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               3 hrs 35 mins       ████████████░░░░░░░░░░░░░   46.60 % 
-Python                   1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-Bash                     1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-JavaScript               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+TypeScript               4 hrs 42 mins       ████████████░░░░░░░░░░░░░   48.09 % 
+Python                   1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Bash                     1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Other                    52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+SQL                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 9 mins        █████████████████░░░░░░░░   66.82 % 
-Claude Code              2 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   33.18 % 
+VS Code                  5 hrs 16 mins       █████████████░░░░░░░░░░░░   53.95 % 
+Claude Code              4 hrs 30 mins       ████████████░░░░░░░░░░░░░   46.05 % 
 
 🐱‍💻 Projects: 
-studio-monorepo          5 hrs 5 mins        █████████████████░░░░░░░░   66.09 % 
-Generative AI            1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-hostelhubbmobile         28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-files                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-interface                14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+studio-monorepo          7 hrs 38 mins       ████████████████████░░░░░   78.01 % 
+Generative AI            1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+hostelhubbmobile         24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+files                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+amalia-web               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 💻 Operating System: 
-Mac                      6 hrs 16 mins       ████████████████████░░░░░   81.45 % 
-Windows                  1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+Mac                      8 hrs 21 mins       █████████████████████░░░░   85.39 % 
+Windows                  1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 53 mins (37.42%)
+⏱ AI Coding Time: 4 hrs 53 mins (49.95%)
 
-✍️ 3,192 lines written by AI, 26,448 lines written by hand (10.77% AI-written)
+✍️ 3,839 lines written by AI, 26,486 lines written by hand (12.66% AI-written)
 
-🔤 1,265,936 Input Tokens, 270,124 Output Tokens
+🔤 2,258,948 Input Tokens, 423,611 Output Tokens
 
-💵 $25.50 Estimated AI Cost This Week
+💵 $41.02 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 29 AI Prompts
+🧠 9 AI Sessions, 42 AI Prompts
 
-Opus                     3,192 lines         █████████████████████████   100.00 % 
+Opus                     3,840 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 10.77% of written lines came from AI
-📚 Verbose Prompter — average 2,628 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 94.13% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 12.66% of written lines came from AI
+📚 Verbose Prompter — average 2,416 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 93.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -588,7 +588,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 03:45:35 UTC
+ Last Updated on 09/10/2026 03:50:36 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
