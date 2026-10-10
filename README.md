@@ -481,9 +481,9 @@ Interested in: AI-powered products · EdTech · HealthTech · High-growth startu
 > 🔄 *Auto-updated every 24 hours via GitHub Actions pipeline*
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C348%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C349%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -526,49 +526,47 @@ Sunday                   188 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               4 hrs 42 mins       ████████████░░░░░░░░░░░░░   48.09 % 
-Python                   1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-Bash                     1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-Other                    52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-SQL                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+TypeScript               6 hrs 25 mins       ████████████████░░░░░░░░░   65.17 % 
+Bash                     1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Other                    52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+SQL                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Git Config               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 16 mins       █████████████░░░░░░░░░░░░   53.95 % 
-Claude Code              4 hrs 30 mins       ████████████░░░░░░░░░░░░░   46.05 % 
+Claude Code              5 hrs 36 mins       ██████████████░░░░░░░░░░░   56.81 % 
+VS Code                  4 hrs 15 mins       ███████████░░░░░░░░░░░░░░   43.19 % 
 
 🐱‍💻 Projects: 
-studio-monorepo          7 hrs 38 mins       ████████████████████░░░░░   78.01 % 
-Generative AI            1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-hostelhubbmobile         24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-files                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-amalia-web               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+studio-monorepo          9 hrs 21 mins       ████████████████████████░   94.90 % 
+hostelhubbmobile         24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+amalia-web               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+mobileapp                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      8 hrs 21 mins       █████████████████████░░░░   85.39 % 
-Windows                  1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Mac                      9 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 53 mins (49.95%)
+⏱ AI Coding Time: 6 hrs 2 mins (61.16%)
 
-✍️ 3,839 lines written by AI, 26,486 lines written by hand (12.66% AI-written)
+✍️ 3,840 lines written by AI, 1,029 lines written by hand (78.87% AI-written)
 
-🔤 2,258,948 Input Tokens, 423,611 Output Tokens
+🔤 2,721,959 Input Tokens, 449,250 Output Tokens
 
-💵 $41.02 Estimated AI Cost This Week
+💵 $45.42 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 42 AI Prompts
+🧠 12 AI Sessions, 51 AI Prompts
 
-Opus                     3,840 lines         █████████████████████████   100.00 % 
+Opus                     3,841 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 12.66% of written lines came from AI
-📚 Verbose Prompter — average 2,416 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 93.04% of changed lines were hand-edited
+🤖 AI-Driven — 78.87% of written lines came from AI
+📚 Verbose Prompter — average 2,266 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 24.94% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -588,7 +586,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 03:50:36 UTC
+ Last Updated on 10/10/2026 03:33:18 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
