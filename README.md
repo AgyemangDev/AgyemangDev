@@ -481,9 +481,9 @@ Interested in: AI-powered products · EdTech · HealthTech · High-growth startu
 > 🔄 *Auto-updated every 24 hours via GitHub Actions pipeline*
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C349%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C351%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -526,32 +526,30 @@ Sunday                   188 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               6 hrs 25 mins       ████████████████░░░░░░░░░   65.17 % 
-Bash                     1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Other                    52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-SQL                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-Git Config               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+TypeScript               6 hrs 25 mins       █████████████████░░░░░░░░   67.96 % 
+Bash                     1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Other                    52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+SQL                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Git Config               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 36 mins       ██████████████░░░░░░░░░░░   56.81 % 
-VS Code                  4 hrs 15 mins       ███████████░░░░░░░░░░░░░░   43.19 % 
+Claude Code              5 hrs 36 mins       ███████████████░░░░░░░░░░   59.24 % 
+VS Code                  3 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   40.76 % 
 
 🐱‍💻 Projects: 
-studio-monorepo          9 hrs 21 mins       ████████████████████████░   94.90 % 
-hostelhubbmobile         24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-amalia-web               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-mobileapp                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+studio-monorepo          9 hrs 21 mins       █████████████████████████   98.95 % 
+amalia-web               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 💻 Operating System: 
-Mac                      9 hrs 52 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 2 mins (61.16%)
+⏱ AI Coding Time: 6 hrs 2 mins (63.78%)
 
-✍️ 3,840 lines written by AI, 1,029 lines written by hand (78.87% AI-written)
+✍️ 3,840 lines written by AI, 813 lines written by hand (82.53% AI-written)
 
 🔤 2,721,959 Input Tokens, 449,250 Output Tokens
 
@@ -563,10 +561,10 @@ Opus                     3,841 lines         ███████████�
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 78.87% of written lines came from AI
+🤖 AI-Driven — 82.53% of written lines came from AI
 📚 Verbose Prompter — average 2,266 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 24.94% of changed lines were hand-edited
+🚀 High AI Trust — 21.63% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -586,7 +584,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2026 03:33:18 UTC
+ Last Updated on 11/10/2026 03:06:43 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
