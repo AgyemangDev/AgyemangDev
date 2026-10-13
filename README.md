@@ -526,45 +526,44 @@ Sunday                   188 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               6 hrs 25 mins       █████████████████░░░░░░░░   67.96 % 
-Bash                     1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Other                    52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-SQL                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-Git Config               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+TypeScript               9 hrs 11 mins       ████████████████████░░░░░   79.58 % 
+Other                    52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Git Config               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Text                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 36 mins       ███████████████░░░░░░░░░░   59.24 % 
-VS Code                  3 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   40.76 % 
+Claude Code              7 hrs 4 mins        ███████████████░░░░░░░░░░   61.21 % 
+VS Code                  4 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   38.79 % 
 
 🐱‍💻 Projects: 
-studio-monorepo          9 hrs 21 mins       █████████████████████████   98.95 % 
-amalia-web               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+studio-monorepo          11 hrs 33 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 hrs 27 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 2 mins (63.78%)
+⏱ AI Coding Time: 7 hrs 35 mins (65.76%)
 
-✍️ 3,840 lines written by AI, 813 lines written by hand (82.53% AI-written)
+✍️ 4,503 lines written by AI, 505 lines written by hand (89.92% AI-written)
 
-🔤 2,721,959 Input Tokens, 449,250 Output Tokens
+🔤 3,693,590 Input Tokens, 558,983 Output Tokens
 
-💵 $45.42 Estimated AI Cost This Week
+💵 $57.73 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 51 AI Prompts
+🧠 14 AI Sessions, 58 AI Prompts
 
-Opus                     3,841 lines         █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     4,636 lines         █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 82.53% of written lines came from AI
-📚 Verbose Prompter — average 2,266 characters per prompt
+🤖 AI-Driven — 89.92% of written lines came from AI
+📚 Verbose Prompter — average 2,988 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 21.63% of changed lines were hand-edited
+🚀 High AI Trust — 15.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -584,7 +583,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2026 03:30:04 UTC
+ Last Updated on 13/10/2026 04:44:37 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
