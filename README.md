@@ -481,9 +481,9 @@ Interested in: AI-powered products · EdTech · HealthTech · High-growth startu
 > 🔄 *Auto-updated every 24 hours via GitHub Actions pipeline*
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C372%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C381%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-43%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-43%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -526,51 +526,50 @@ Sunday                   190 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               17 hrs 58 mins      █████████████████████░░░░   83.70 % 
-JSON                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-JavaScript               54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Text                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+TypeScript               23 hrs 33 mins      ██████████████████████░░░   87.44 % 
+JSON                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+JavaScript               54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Markdown                 27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Other                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 17 mins      ███████████████████░░░░░░   75.87 % 
-Claude Code              4 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
-Copilot CLI              26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+VS Code                  23 hrs 32 mins      ██████████████████████░░░   87.39 % 
+Claude Code              2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Copilot CLI              29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 
 🐱‍💻 Projects: 
-studio-monorepo          15 hrs 57 mins      ███████████████████░░░░░░   74.26 % 
-studio-design-system     3 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-hostelhubbmobile         53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-hostelhubb               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-webapp                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+studio-monorepo          21 hrs 20 mins      ████████████████████░░░░░   79.19 % 
+studio-design-system     3 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+hostelhubbmobile         53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+hostelhubb               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+webapp                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 💻 Operating System: 
-Mac                      21 hrs 28 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 21 mins (29.64%)
+⏱ AI Coding Time: 4 hrs 27 mins (16.55%)
 
-✍️ 1,920 lines written by AI, 1,413 lines written by hand (57.61% AI-written)
+✍️ 1,240 lines written by AI, 2,324 lines written by hand (34.79% AI-written)
 
-🔤 3,749,863 Input Tokens, 325,011 Output Tokens
+🔤 2,598,442 Input Tokens, 191,531 Output Tokens
 
-💵 $36.92 Estimated AI Cost This Week
+💵 $22.61 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 62 AI Prompts
+🧠 14 AI Sessions, 49 AI Prompts
 
-Opus                     1,933 lines         ███████████████████████░░   93.79 % 
-Sonnet                   128 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     1,121 lines         ██████████████████████░░░   89.75 % 
+Sonnet                   128 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 57.61% of written lines came from AI
-📚 Verbose Prompter — average 2,038 characters per prompt
+⚖️ Balanced with AI — 34.79% of written lines came from AI
+📄 Detailed Prompter — average 1,410 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 55.11% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 76.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -590,7 +589,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgyemangDev/AgyemangDev/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2026 02:47:32 UTC
+ Last Updated on 21/10/2026 02:41:56 UTC
 <!--END_SECTION:waka-->
 
 > 📊 Full breakdown at [wakatime.com/@AgyemangDev](https://wakatime.com/@AgyemangDev)
